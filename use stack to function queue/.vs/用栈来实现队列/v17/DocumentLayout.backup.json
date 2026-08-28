@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71552D87-85C9-478C-BE15-E6CDFB283D58}|\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217.vcxproj|D:\\project\\\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71552D87-85C9-478C-BE15-E6CDFB283D58}|\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217.vcxproj|solutionrelative:\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\project\\\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\FileName.cpp",
+              "RelativeDocumentMoniker": "\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\FileName.cpp",
+              "ToolTip": "D:\\project\\\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\FileName.cpp*",
+              "RelativeToolTip": "\u7528\u6808\u6765\u5B9E\u73B0\u961F\u5217\\FileName.cpp*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAvwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-28T03:00:02.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

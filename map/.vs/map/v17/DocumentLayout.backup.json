@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\map\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF9B1AB-BEB7-433B-8E3A-C50AC8CC01E3}|map\\map.vcxproj|D:\\project\\map\\map\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACF9B1AB-BEB7-433B-8E3A-C50AC8CC01E3}|map\\map.vcxproj|solutionrelative:map\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\project\\map\\map\\FileName.cpp",
+              "RelativeDocumentMoniker": "map\\FileName.cpp",
+              "ToolTip": "D:\\project\\map\\map\\FileName.cpp*",
+              "RelativeToolTip": "map\\FileName.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-17T08:33:17.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

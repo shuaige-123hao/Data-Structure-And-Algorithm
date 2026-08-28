@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\unordered set\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33469BCE-DEA1-450A-9487-57AE56D3CAC0}|unordered set\\unordered set.vcxproj|D:\\project\\unordered set\\unordered set\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33469BCE-DEA1-450A-9487-57AE56D3CAC0}|unordered set\\unordered set.vcxproj|solutionrelative:unordered set\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\project\\unordered set\\unordered set\\FileName.cpp",
+              "RelativeDocumentMoniker": "unordered set\\FileName.cpp",
+              "ToolTip": "D:\\project\\unordered set\\unordered set\\FileName.cpp",
+              "RelativeToolTip": "unordered set\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-22T13:36:18.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

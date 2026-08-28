@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\vector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD77AEA5-E1EF-4F6D-8ECD-AD51EE287809}|STL\\STL.vcxproj|D:\\project\\vector\\STL\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD77AEA5-E1EF-4F6D-8ECD-AD51EE287809}|STL\\STL.vcxproj|solutionrelative:STL\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector.cpp",
+              "DocumentMoniker": "D:\\project\\vector\\STL\\vector.cpp",
+              "RelativeDocumentMoniker": "STL\\vector.cpp",
+              "ToolTip": "D:\\project\\vector\\STL\\vector.cpp",
+              "RelativeToolTip": "STL\\vector.cpp",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-21T06:27:32.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

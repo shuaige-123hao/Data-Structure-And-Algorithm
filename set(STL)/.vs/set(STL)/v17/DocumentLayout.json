@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\set(STL)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D2ADCC-E6F7-4964-83D2-5A8B29126901}|set(STL)\\set(STL).vcxproj|D:\\project\\set(STL)\\set(STL)\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8D2ADCC-E6F7-4964-83D2-5A8B29126901}|set(STL)\\set(STL).vcxproj|solutionrelative:set(STL)\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D2ADCC-E6F7-4964-83D2-5A8B29126901}|set(STL)\\set(STL).vcxproj|D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\XTREE||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xtree",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\VC\\Tools\\MSVC\\14.44.35207\\include\\xtree",
+              "RelativeDocumentMoniker": "..\\..\\\u65B0\u5EFA\u6587\u4EF6\u5939\\VC\\Tools\\MSVC\\14.44.35207\\include\\xtree",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\VC\\Tools\\MSVC\\14.44.35207\\include\\xtree",
+              "RelativeToolTip": "..\\..\\\u65B0\u5EFA\u6587\u4EF6\u5939\\VC\\Tools\\MSVC\\14.44.35207\\include\\xtree",
+              "ViewState": "AgIAAOsEAAAAAAAAAAApwPsEAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-11T02:21:37.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\project\\set(STL)\\set(STL)\\FileName.cpp",
+              "RelativeDocumentMoniker": "set(STL)\\FileName.cpp",
+              "ToolTip": "D:\\project\\set(STL)\\set(STL)\\FileName.cpp",
+              "RelativeToolTip": "set(STL)\\FileName.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T13:07:35.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

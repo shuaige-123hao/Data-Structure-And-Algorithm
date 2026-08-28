@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\queue\uFF08STL\uFF09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62359FA5-DB87-4F63-A4E0-C77CCA7F7997}|queue\uFF08STL\uFF09\\queue\uFF08STL\uFF09.vcxproj|D:\\project\\queue\uFF08STL\uFF09\\queue\uFF08STL\uFF09\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62359FA5-DB87-4F63-A4E0-C77CCA7F7997}|queue\uFF08STL\uFF09\\queue\uFF08STL\uFF09.vcxproj|solutionrelative:queue\uFF08STL\uFF09\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\project\\queue\uFF08STL\uFF09\\queue\uFF08STL\uFF09\\FileName.cpp",
+              "RelativeDocumentMoniker": "queue\uFF08STL\uFF09\\FileName.cpp",
+              "ToolTip": "D:\\project\\queue\uFF08STL\uFF09\\queue\uFF08STL\uFF09\\FileName.cpp",
+              "RelativeToolTip": "queue\uFF08STL\uFF09\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T13:03:48.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\sequenlist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380DFF7B-7FAE-4D2F-9E65-D3002FA3D0CC}|sequenlist\\sequenlist.vcxproj|D:\\project\\sequenlist\\sequenlist\\sequenlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{380DFF7B-7FAE-4D2F-9E65-D3002FA3D0CC}|sequenlist\\sequenlist.vcxproj|solutionrelative:sequenlist\\sequenlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sequenlist.cpp",
+              "DocumentMoniker": "D:\\project\\sequenlist\\sequenlist\\sequenlist.cpp",
+              "RelativeDocumentMoniker": "sequenlist\\sequenlist.cpp",
+              "ToolTip": "D:\\project\\sequenlist\\sequenlist\\sequenlist.cpp",
+              "RelativeToolTip": "sequenlist\\sequenlist.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-15T01:55:31.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

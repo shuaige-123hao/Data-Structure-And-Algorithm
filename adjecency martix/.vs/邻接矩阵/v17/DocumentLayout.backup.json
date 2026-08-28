@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\\u90BB\u63A5\u77E9\u9635\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C85858C-E7DB-4D2C-83C5-36848CAC3B10}|\u90BB\u63A5\u77E9\u9635\\\u90BB\u63A5\u77E9\u9635.vcxproj|D:\\project\\\u90BB\u63A5\u77E9\u9635\\\u90BB\u63A5\u77E9\u9635\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C85858C-E7DB-4D2C-83C5-36848CAC3B10}|\u90BB\u63A5\u77E9\u9635\\\u90BB\u63A5\u77E9\u9635.vcxproj|solutionrelative:\u90BB\u63A5\u77E9\u9635\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\project\\\u90BB\u63A5\u77E9\u9635\\\u90BB\u63A5\u77E9\u9635\\FileName.cpp",
+              "RelativeDocumentMoniker": "\u90BB\u63A5\u77E9\u9635\\FileName.cpp",
+              "ToolTip": "D:\\project\\\u90BB\u63A5\u77E9\u9635\\\u90BB\u63A5\u77E9\u9635\\FileName.cpp*",
+              "RelativeToolTip": "\u90BB\u63A5\u77E9\u9635\\FileName.cpp*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-30T13:01:37.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
